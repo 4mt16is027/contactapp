@@ -1,0 +1,49 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h3{
+    color: maroon;
+}
+#update
+{
+    display : none;
+}
+table{
+    margin-left: 10%;
+    margin-right: 10%;
+    width=70%;
+}
+table td{
+    border-bottom: 1px solid blue;
+    padding:10px;
+}
+table tr:nth-child(enum){
+    background-color: blue;
+}
+table tr:hover{
+    background-color: aquamarine;
+}
+input{
+    width = 150px;
+    height = 20px;
+    border: 70%;
+    background-color: aquamarine
+}
+table td button
+{
+    width = 80px;
+    height = 20px;
+    border: 70%;
+    background-color: blue;
+    color : white;
+}
+button{
+     width = 80px;
+    height = 20px;
+    border: 70%;
+    background-color:blue;
+    color : white;
+    
+}
+
